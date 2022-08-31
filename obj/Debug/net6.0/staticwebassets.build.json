@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "01wMIaSQUceEF2K68ryPL5E7LXGsWsXa5OeP7E9Tw7U=",
+  "Source": "TaskAligner",
+  "BasePath": "_content/TaskAligner",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
