@@ -24,6 +24,10 @@ builder.Services.AddScoped<IIssueManager, IssueManager>();
 builder.Services.AddScoped<IIssueRepository, IssueRepository>();
 builder.Services.AddScoped<IIssueTypeManager, IssueTypeManager>();
 builder.Services.AddScoped<IIssueTypeRepository, IssueTypeRepository>();
+builder.Services.AddScoped<IDesignationManager, DesignationManager>();
+builder.Services.AddScoped<IDesignationRepository, DesignationRepository>();
+builder.Services.AddScoped<IDepartmentTeamManager, DepartmentTeamManager>();
+builder.Services.AddScoped<IDepartmentTeamRepository, DepartmentTeamRepository>();
 
 
 
