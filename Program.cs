@@ -24,6 +24,10 @@ builder.Services.AddScoped<IIssueManager, IssueManager>();
 builder.Services.AddScoped<IIssueRepository, IssueRepository>();
 builder.Services.AddScoped<IIssueTypeManager, IssueTypeManager>();
 builder.Services.AddScoped<IIssueTypeRepository, IssueTypeRepository>();
+builder.Services.AddScoped<IProjectManager, ProjectManager>();
+builder.Services.AddScoped<IProjectRepository, ProjectRepository>();
+builder.Services.AddScoped<IProjectTeamManager, ProjectTeamManager>();
+builder.Services.AddScoped<IProjectTeamRepository, ProjectTeamRepository>();
 
 
 
