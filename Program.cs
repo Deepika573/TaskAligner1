@@ -28,6 +28,10 @@ builder.Services.AddScoped<IProjectManager, ProjectManager>();
 builder.Services.AddScoped<IProjectRepository, ProjectRepository>();
 builder.Services.AddScoped<IProjectTeamManager, ProjectTeamManager>();
 builder.Services.AddScoped<IProjectTeamRepository, ProjectTeamRepository>();
+builder.Services.AddScoped<ITasksManager , TasksManager>();
+builder.Services.AddScoped<ITasksRepository, TasksRepository>();
+builder.Services.AddScoped<IUsersManager, UsersManager>();
+builder.Services.AddScoped<IUsersRepository, UsersRepository>();
 
 
 
