@@ -5,7 +5,7 @@ namespace TaskAligner.Entities
     public class Users
     {
         [Key]
-        public string EmployeeId { get; set; }
+        public string? EmployeeId { get; set; }
         [Required]
         public string EmployeeName { get; set; }//sample
         [Required]
