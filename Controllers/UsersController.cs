@@ -17,7 +17,7 @@ namespace TaskAligner.Controllers
         }
 
         [HttpGet]
-        public Task<IEnumerable<Users>> GetAllProTeamAsync()
+        public Task<IEnumerable<Users>> GetAllUsersAsync()
         {
             return _userManager.GetAllUsersAsync();
         }

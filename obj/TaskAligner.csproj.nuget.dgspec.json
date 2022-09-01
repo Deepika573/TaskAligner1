@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Taskaligner1\\TaskAligner1\\TaskAligner.csproj": {}
+    "C:\\Users\\HarshitSinghSehgal\\Desktop\\TaskAlinerFinal\\TaskAligner1\\TaskAligner.csproj": {}
   },
   "projects": {
-    "C:\\Taskaligner1\\TaskAligner1\\TaskAligner.csproj": {
+    "C:\\Users\\HarshitSinghSehgal\\Desktop\\TaskAlinerFinal\\TaskAligner1\\TaskAligner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Taskaligner1\\TaskAligner1\\TaskAligner.csproj",
+        "projectUniqueName": "C:\\Users\\HarshitSinghSehgal\\Desktop\\TaskAlinerFinal\\TaskAligner1\\TaskAligner.csproj",
         "projectName": "TaskAligner",
-        "projectPath": "C:\\Taskaligner1\\TaskAligner1\\TaskAligner.csproj",
-        "packagesPath": "C:\\Users\\SrishtiAnand\\.nuget\\packages\\",
-        "outputPath": "C:\\Taskaligner1\\TaskAligner1\\obj\\",
+        "projectPath": "C:\\Users\\HarshitSinghSehgal\\Desktop\\TaskAlinerFinal\\TaskAligner1\\TaskAligner.csproj",
+        "packagesPath": "C:\\Users\\HarshitSinghSehgal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HarshitSinghSehgal\\Desktop\\TaskAlinerFinal\\TaskAligner1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SrishtiAnand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HarshitSinghSehgal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -75,8 +75,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -88,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
