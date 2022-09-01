@@ -20,6 +20,10 @@ builder.Services.AddDbContext<TaskAlignerDbContext>(options =>
 
 builder.Services.AddScoped<IDepartmentManager, DepartmentManager>();
 builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
+builder.Services.AddScoped<IDesignationManager, DesignationManager>();
+builder.Services.AddScoped<IDesignationRepository, DesignationRepository>();
+builder.Services.AddScoped<IDepartmentTeamManager, DepartmentTeamManager >();
+builder.Services.AddScoped<IDepartmentTeamRepository, DepartmentTeamRepository>();
 builder.Services.AddScoped<IIssueManager, IssueManager>();
 builder.Services.AddScoped<IIssueRepository, IssueRepository>();
 builder.Services.AddScoped<IIssueTypeManager, IssueTypeManager>();

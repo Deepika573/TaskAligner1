@@ -27,17 +27,17 @@ namespace TaskAligner.Controllers
             return _departmentTeamManager.AddAsync(departmentTeam);
         }
 
-        [HttpPut("{id:int}")]
-        public Task<DepartmentTeam> UpdateDeptAsync(int deptTeamid, [FromBody] DepartmentTeam departmentTeam)
+        [HttpPut("{deptTeamId:int}")]
+        public Task<DepartmentTeam> UpdateDeptAsync(int deptTeamId, [FromBody] DepartmentTeam departmentTeam)
         {
-            return _departmentTeamManager.UpdateAsync(deptTeamid, departmentTeam);
+            return _departmentTeamManager.UpdateAsync(deptTeamId, departmentTeam);
 
         }
 
-        [HttpDelete("{id:int}")]
-        public Task<DepartmentTeam> DeleteDeptAsync(int deptTeamid)
+        [HttpDelete("{deptTeamId:int}")]
+        public Task<DepartmentTeam> DeleteDeptAsync(int deptTeamId)
         {
-            return _departmentTeamManager.DeleteAsync(deptTeamid);
+            return _departmentTeamManager.DeleteAsync(deptTeamId);
         }
     }
 }
