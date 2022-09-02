@@ -1,4 +1,5 @@
 ﻿using TaskAligner.Entities;
+using TaskAligner.Models;
 
 namespace TaskAligner.Interfaces.Business
 {
@@ -8,6 +9,7 @@ namespace TaskAligner.Interfaces.Business
         Task<Users> AddUsersAsync(Users user);
         Task<Users> UpdateUsersAsync(string id, Users user);
         Task<Users> DeleteUsersAsync(string id);
+        public List<FullUsers> GetFullUsers();
 
     }
 }

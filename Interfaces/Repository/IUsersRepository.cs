@@ -1,4 +1,5 @@
 ﻿using TaskAligner.Entities;
+using TaskAligner.Models;
 
 namespace TaskAligner.Interfaces.Repository
 {
@@ -8,5 +9,6 @@ namespace TaskAligner.Interfaces.Repository
         Task<Users> AddAsync(Users user);
         Task<Users> UpdateAsync(string id, Users user);
         Task<Users> DeleteAsync(string id);
+        public List<FullUsers> GetFullUsers();
     }
 }
