@@ -1,6 +1,7 @@
 ﻿using TaskAligner.Entities;
 using TaskAligner.Interfaces.Business;
 using TaskAligner.Interfaces.Repository;
+using TaskAligner.Models;
 
 namespace TaskAligner.Business
 {
@@ -33,6 +34,11 @@ namespace TaskAligner.Business
         public Task<Users> DeleteUsersAsync(string id)
         {
             return _userRepository.DeleteAsync(id);
+        }
+
+        public List<FullUsers> GetFullUsers()
+        {
+            return _userRepository.GetFullUsers();
         }
     }
 }

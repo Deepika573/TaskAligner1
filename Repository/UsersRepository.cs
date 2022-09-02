@@ -2,6 +2,7 @@
 using TaskAligner.Data;
 using TaskAligner.Entities;
 using TaskAligner.Interfaces.Repository;
+using TaskAligner.Models;
 
 namespace TaskAligner.Repository
 {
@@ -55,7 +56,26 @@ namespace TaskAligner.Repository
             _taskAlignerDbContext.Users.Remove(user);
             await _taskAlignerDbContext.SaveChangesAsync();
             return user;
+        }
 
+        //For getting full user
+        public List<FullUsers> GetFullUsers()
+        {
+            var query = (from user in _taskAlignerDbContext.Users
+                         join designation in _taskAlignerDbContext.Designation
+                             on user.DesignationId equals designation.DesignationId 
+                             join department in _taskAlignerDbContext.Department
+                                on user.DepartmentId equals department.DepartmentId
+                                 select new FullUsers()
+                                 {   EmployeeId = user.EmployeeId,
+                                     EmployeeName = user.EmployeeName,
+                                     DesignationName = designation.DesignationName,
+                                     DepartmentName = department.DepartmentName,
+                                     UserName = user.UserName,
+                                     Passwords = user.Passwords,
+                                     Email = user.Email
+                                 }).ToList();
+            return query;
         }
     }
 

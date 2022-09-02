@@ -2,10 +2,11 @@
 using Microsoft.AspNetCore.Mvc;
 using TaskAligner.Entities;
 using TaskAligner.Interfaces.Business;
+using TaskAligner.Models;
 
 namespace TaskAligner.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class UsersController : ControllerBase
     {
@@ -39,6 +40,12 @@ namespace TaskAligner.Controllers
         public Task<Users> DeleteUsersAsync(string id)
         {
             return _userManager.DeleteUsersAsync(id);
+        }
+
+        [HttpGet("GetFullUser")]
+        public List<FullUsers> GetFullUsers()
+        {
+            return _userManager.GetFullUsers();
         }
     }
 }

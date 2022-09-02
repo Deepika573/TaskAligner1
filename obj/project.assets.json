@@ -7158,19 +7158,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HarshitSinghSehgal\\.nuget\\packages\\": {}
+    "C:\\Users\\AtulGarg\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HarshitSinghSehgal\\Desktop\\TaskAlinerFinal\\TaskAligner1\\TaskAligner.csproj",
+      "projectUniqueName": "C:\\code\\personal-hanu\\TaskAligner.csproj",
       "projectName": "TaskAligner",
-      "projectPath": "C:\\Users\\HarshitSinghSehgal\\Desktop\\TaskAlinerFinal\\TaskAligner1\\TaskAligner.csproj",
-      "packagesPath": "C:\\Users\\HarshitSinghSehgal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HarshitSinghSehgal\\Desktop\\TaskAlinerFinal\\TaskAligner1\\obj\\",
+      "projectPath": "C:\\code\\personal-hanu\\TaskAligner.csproj",
+      "packagesPath": "C:\\Users\\AtulGarg\\.nuget\\packages\\",
+      "outputPath": "C:\\code\\personal-hanu\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HarshitSinghSehgal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AtulGarg\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
