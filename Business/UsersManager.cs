@@ -40,5 +40,28 @@ namespace TaskAligner.Business
         {
             return _userRepository.GetFullUsers();
         }
+        public List<Project> GetAllUserProjects(string UserId)
+        {
+            return _userRepository.GetAllUserProjects(UserId);
+        }
+
+        public List<Tasks> GetAllUserProjectTask(string UserId, int PId)
+        {
+            return _userRepository.GetAllUserProjectTask(UserId, PId);
+        }
+
+        //For getting full user using user id
+        public FullUsers GetFullUsers(string UserId)
+        {
+            foreach(FullUsers User in GetFullUsers())
+            {
+                if(User.EmployeeId == UserId)
+                {
+                    return User;
+                }
+               
+            }
+            return null;
+        }
     }
 }

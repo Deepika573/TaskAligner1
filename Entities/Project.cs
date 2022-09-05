@@ -12,7 +12,11 @@ namespace TaskAligner.Entities
         public string ProjectDescription { get; set; }
         [Required]
         public DateTime ProjectDeadLine { get; set; }
+        [Required]
+        public string AssignedToUserId { get; set; }//Fk to EmployeeId reference to User
         
-        
+
+
+
     }
 }
