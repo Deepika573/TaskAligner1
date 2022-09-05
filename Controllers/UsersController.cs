@@ -43,13 +43,14 @@ namespace TaskAligner.Controllers
             return _userManager.DeleteUsersAsync(id);
         }
 
-        //For all the users
+        //For all the fullusers
         [HttpGet("GetFullUser")]
         public List<FullUsers> GetFullUsers()
         {
             return _userManager.GetFullUsers();
         }
 
+        //Get full user by id
         [HttpGet("GetFullUsers")]
         public ActionResult<FullUsers> GetFullUsers(string user)
         {
