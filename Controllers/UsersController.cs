@@ -58,7 +58,6 @@ namespace TaskAligner.Controllers
             {
                 return StatusCode(404);
             }
-
             return _userManager.GetFullUsers(user);
         }
 
@@ -73,8 +72,6 @@ namespace TaskAligner.Controllers
         {
             return _userManager.GetAllUserProjectTask(UserId, PId);
         }
-
-
     }
 }
 
