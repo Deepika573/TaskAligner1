@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using TaskAligner.Business;
 using TaskAligner.Entities;
 using TaskAligner.Interfaces.Business;
 using TaskAligner.Models;
@@ -42,11 +43,38 @@ namespace TaskAligner.Controllers
             return _userManager.DeleteUsersAsync(id);
         }
 
+        //For all the fullusers
         [HttpGet("GetFullUser")]
         public List<FullUsers> GetFullUsers()
         {
             return _userManager.GetFullUsers();
         }
+
+        //Get full user by id
+        [HttpGet("GetFullUsers")]
+        public ActionResult<FullUsers> GetFullUsers(string user)
+        {
+            if (_userManager.GetFullUsers(user) == null)
+            {
+                return StatusCode(404);
+            }
+
+            return _userManager.GetFullUsers(user);
+        }
+
+        [HttpGet("GetAllUserProjects")]
+        public List<Project> GetAllUserProjects(string UserId)
+        {
+            return _userManager.GetAllUserProjects(UserId);
+        }
+
+        [HttpGet("GetAllUserProjectTask")]
+        public List<Tasks> GetAllUserProjectTask(string UserId, int PId)
+        {
+            return _userManager.GetAllUserProjectTask(UserId, PId);
+        }
+
+
     }
 }
 

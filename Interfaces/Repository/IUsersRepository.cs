@@ -10,5 +10,7 @@ namespace TaskAligner.Interfaces.Repository
         Task<Users> UpdateAsync(string id, Users user);
         Task<Users> DeleteAsync(string id);
         public List<FullUsers> GetFullUsers();
+        public List<Project> GetAllUserProjects(string UserId);
+        public List<Tasks> GetAllUserProjectTask(string UserId, int PId);
     }
 }

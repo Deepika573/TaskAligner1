@@ -77,6 +77,18 @@ namespace TaskAligner.Repository
                                  }).ToList();
             return query;
         }
+
+        public List<Project> GetAllUserProjects(string UserId)
+        {
+                var Project = _taskAlignerDbContext.Project.Where(p=> p.AssignedToUserId == UserId).ToList();
+                return Project;
+        }
+
+        public List<Tasks> GetAllUserProjectTask(string UserId, int PId)
+        {
+            var Tasks = _taskAlignerDbContext.Tasks.Where(p => p.AssignedToId == UserId && p.ProjectId == PId).ToList();
+            return Tasks;
+        }
     }
 
 }
