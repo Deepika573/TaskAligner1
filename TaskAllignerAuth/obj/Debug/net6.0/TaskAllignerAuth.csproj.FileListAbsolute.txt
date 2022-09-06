@@ -1,0 +1,210 @@
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\appsettings.Development.json
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\appsettings.json
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\TaskAllignerAuth.staticwebassets.runtime.json
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\TaskAllignerAuth.exe
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\TaskAllignerAuth.deps.json
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\TaskAllignerAuth.runtimeconfig.json
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\TaskAllignerAuth.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\TaskAllignerAuth.pdb
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Humanizer.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\code\personal hanu\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\code\personal hanu\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.csproj.AssemblyReference.cache
+C:\code\personal hanu\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\personal hanu\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.AssemblyInfoInputs.cache
+C:\code\personal hanu\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.AssemblyInfo.cs
+C:\code\personal hanu\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.csproj.CoreCompileInputs.cache
+C:\code\personal hanu\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.MvcApplicationPartsAssemblyInfo.cs
+C:\code\personal hanu\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\code\personal hanu\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.RazorAssemblyInfo.cache
+C:\code\personal hanu\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.RazorAssemblyInfo.cs
+C:\code\personal hanu\TaskAllignerAuth\obj\Debug\net6.0\staticwebassets.build.json
+C:\code\personal hanu\TaskAllignerAuth\obj\Debug\net6.0\staticwebassets.development.json
+C:\code\personal hanu\TaskAllignerAuth\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\code\personal hanu\TaskAllignerAuth\obj\Debug\net6.0\scopedcss\bundle\TaskAllignerAuth.styles.css
+C:\code\personal hanu\TaskAllignerAuth\obj\Debug\net6.0\scopedcss\projectbundle\TaskAllignerAuth.bundle.scp.css
+C:\code\personal hanu\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.csproj.CopyComplete
+C:\code\personal hanu\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.dll
+C:\code\personal hanu\TaskAllignerAuth\obj\Debug\net6.0\refint\TaskAllignerAuth.dll
+C:\code\personal hanu\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.pdb
+C:\code\personal hanu\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.genruntimeconfig.cache
+C:\code\personal hanu\TaskAllignerAuth\obj\Debug\net6.0\ref\TaskAllignerAuth.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\appsettings.json
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\TaskAllignerAuth.staticwebassets.runtime.json
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\TaskAllignerAuth.exe
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\TaskAllignerAuth.deps.json
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\TaskAllignerAuth.runtimeconfig.json
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\TaskAllignerAuth.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\TaskAllignerAuth.pdb
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Humanizer.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.csproj.AssemblyReference.cache
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.AssemblyInfoInputs.cache
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.AssemblyInfo.cs
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.csproj.CoreCompileInputs.cache
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.RazorAssemblyInfo.cache
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.RazorAssemblyInfo.cs
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\obj\Debug\net6.0\scopedcss\bundle\TaskAllignerAuth.styles.css
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\obj\Debug\net6.0\scopedcss\projectbundle\TaskAllignerAuth.bundle.scp.css
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.csproj.CopyComplete
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\obj\Debug\net6.0\refint\TaskAllignerAuth.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.pdb
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.genruntimeconfig.cache
+C:\Users\HarshitSinghSehgal\Desktop\TaskAlignerIdentity\TaskAllign\TaskAllignerAuth\obj\Debug\net6.0\ref\TaskAllignerAuth.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\appsettings.json
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\TaskAllignerAuth.staticwebassets.runtime.json
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\TaskAllignerAuth.exe
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\TaskAllignerAuth.deps.json
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\TaskAllignerAuth.runtimeconfig.json
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\TaskAllignerAuth.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\TaskAllignerAuth.pdb
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Humanizer.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.csproj.AssemblyReference.cache
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.AssemblyInfoInputs.cache
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.AssemblyInfo.cs
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.csproj.CoreCompileInputs.cache
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.RazorAssemblyInfo.cache
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.RazorAssemblyInfo.cs
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\obj\Debug\net6.0\scopedcss\bundle\TaskAllignerAuth.styles.css
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\obj\Debug\net6.0\scopedcss\projectbundle\TaskAllignerAuth.bundle.scp.css
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.csproj.CopyComplete
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\obj\Debug\net6.0\refint\TaskAllignerAuth.dll
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.pdb
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\obj\Debug\net6.0\TaskAllignerAuth.genruntimeconfig.cache
+C:\Users\HarshitSinghSehgal\Desktop\TaskAligner\TaskAligner1\TaskAllignerAuth\obj\Debug\net6.0\ref\TaskAllignerAuth.dll
