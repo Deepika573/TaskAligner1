@@ -2275,11 +2275,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HarshitSinghSehgal\\Desktop\\TaskAligner\\TaskAligner1\\TaskAllignerAuth\\TaskAllignerAuth.csproj",
+      "projectUniqueName": "C:\\Users\\HarshitSinghSehgal\\Desktop\\TaskAligner\\TaskAllignerAuth\\TaskAllignerAuth.csproj",
       "projectName": "TaskAllignerAuth",
-      "projectPath": "C:\\Users\\HarshitSinghSehgal\\Desktop\\TaskAligner\\TaskAligner1\\TaskAllignerAuth\\TaskAllignerAuth.csproj",
+      "projectPath": "C:\\Users\\HarshitSinghSehgal\\Desktop\\TaskAligner\\TaskAllignerAuth\\TaskAllignerAuth.csproj",
       "packagesPath": "C:\\Users\\HarshitSinghSehgal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HarshitSinghSehgal\\Desktop\\TaskAligner\\TaskAligner1\\TaskAllignerAuth\\obj\\",
+      "outputPath": "C:\\Users\\HarshitSinghSehgal\\Desktop\\TaskAligner\\TaskAllignerAuth\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HarshitSinghSehgal\\AppData\\Roaming\\NuGet\\NuGet.Config",

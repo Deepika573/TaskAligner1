@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskAligner", "TaskAligner.csproj", "{103869D8-A90A-4735-B7C7-F3FEA011551F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskAllignerAuth", "..\TaskAllignerAuth\TaskAllignerAuth.csproj", "{6B9BC6B4-A48A-4A1B-A278-6D64C3085CC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskAligner", "TaskAligner.csproj", "{C1D220E0-2670-46A5-9C49-4774A5213BDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,19 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{103869D8-A90A-4735-B7C7-F3FEA011551F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{103869D8-A90A-4735-B7C7-F3FEA011551F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{103869D8-A90A-4735-B7C7-F3FEA011551F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{103869D8-A90A-4735-B7C7-F3FEA011551F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6B9BC6B4-A48A-4A1B-A278-6D64C3085CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6B9BC6B4-A48A-4A1B-A278-6D64C3085CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6B9BC6B4-A48A-4A1B-A278-6D64C3085CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6B9BC6B4-A48A-4A1B-A278-6D64C3085CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1D220E0-2670-46A5-9C49-4774A5213BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D220E0-2670-46A5-9C49-4774A5213BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D220E0-2670-46A5-9C49-4774A5213BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1D220E0-2670-46A5-9C49-4774A5213BDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {188B04D7-330D-4ACB-8DBA-C2BB3A724C25}
+		SolutionGuid = {27FFADAB-5635-444B-B9BD-6AEEA1EAE99C}
 	EndGlobalSection
 EndGlobal

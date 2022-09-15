@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-TaskAllignerAuth-DE758ACA-CCF6-4012-B0BD-F6AFCDF5D8A6")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-TaskAllignerAuth-5FA20FEA-BA16-4995-A197-FAA362E3463A")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskAllignerAuth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
