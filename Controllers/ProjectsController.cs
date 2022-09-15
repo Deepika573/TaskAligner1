@@ -5,7 +5,7 @@ using TaskAligner.Interfaces.Business;
 
 namespace TaskAligner.Controllers
 {
-    [Route("api/[controller]/[action]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class ProjectsController : ControllerBase
     {

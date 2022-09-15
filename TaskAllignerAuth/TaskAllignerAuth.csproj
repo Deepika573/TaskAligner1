@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-TaskAllignerAuth-DE758ACA-CCF6-4012-B0BD-F6AFCDF5D8A6</UserSecretsId>
+    <UserSecretsId>aspnet-TaskAllignerAuth-5FA20FEA-BA16-4995-A197-FAA362E3463A</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
